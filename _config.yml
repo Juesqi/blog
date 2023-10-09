@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Shi Zhongxi"
   avatar : "/assets/images/白底证件照.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Accelerating AI Deployment, 2D/3D object detection, Mixed reality development, Hololens 2."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
